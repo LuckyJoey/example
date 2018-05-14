@@ -3,5 +3,6 @@
 * [Introduction](README.md)
 * C\# Notes
   * Arithmetic
-    * [Enum](c-notes/arithmetic/enum.md)
+    * Enum
+      * [string 2 enum](c-notes/arithmetic/enum/string-2-enum.md)
 
